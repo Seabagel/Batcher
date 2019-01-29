@@ -64,7 +64,7 @@
                   </Label>
                </graphic>
             </CheckBox>
-            <TextArea fx:id="rgxArea" promptText="OriginalText,ReplacementText;" wrapText="true" VBox.vgrow="ALWAYS">
+            <TextArea fx:id="rgxArea" promptText="OriginalText=ReplacementText;" wrapText="true" VBox.vgrow="ALWAYS">
                <VBox.margin>
                   <Insets />
                </VBox.margin>
